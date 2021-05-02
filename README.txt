@@ -67,6 +67,6 @@ Fino ad ora sono state implementate le seguenti features :
 
 (15)
 -Gioco snake es:"Apri Snake"
-Si Ringrazia sentitamente Daniel Shiffman (link sito web ->> https://shiffman.net)per il codice relativo al gioco snake, che ho modificato poco e nienete.
+Si Ringrazia sentitamente Daniel Shiffman (link sito web ->> https://shiffman.net ) per il codice relativo al gioco snake, che ho modificato poco e nienete.
 
 
