@@ -8,8 +8,14 @@ NON È una "intelligenza artificiale", in quanto mancano tutte le operazioni bas
 
 L'applicazione è piuttosto un assistente vocale che aiuta l'utente, semplificando alcuni task .
 
-Fino ad ora sono state implementate le seguenti features : 
 
+N.B.
+Per far si che Clemente funzioni, bisogna anzitutto installare le librerie Speech_Recognition , Face_recognition e cv2 di Python. Inoltre bisogna installare il tool espeak con l'estensione italiana fornita dal team mbrola, il browser firefox, VLC , Libreoffice, Xed e il tool SoX (play ->> per poter riprodurre direttamente la musica sul terminale(solo file .wav, non supporta .mp3)
+L'applicazione , così per come è, non è funzionante su altre macchine che non siano la mia. Tutti i paths, sono relativi a l mio pc e pertanto non funzionerà mai su altri. Se voleste farla funzionare anche su voltro computer e non ci riusciste da soli, contattatemi pure, sarei felice di aiutarvi!
+
+
+
+Fino ad ora sono state implementate le seguenti features : 
 
 
 -Presentazione(es:"presentati")
